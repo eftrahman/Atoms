@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atoms_01_02", "atoms_01_02.csproj", "{E301BE35-20F9-4E34-BC8A-4A84447FCE66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E301BE35-20F9-4E34-BC8A-4A84447FCE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E301BE35-20F9-4E34-BC8A-4A84447FCE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E301BE35-20F9-4E34-BC8A-4A84447FCE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E301BE35-20F9-4E34-BC8A-4A84447FCE66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F23B3D3C-C168-4593-BAA9-D4EC76979DB7}
+	EndGlobalSection
+EndGlobal
